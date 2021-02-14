@@ -1,0 +1,4 @@
+baseURL = "https://musizgreedz.vercel.app"
+languageCode = "en-us"
+title = "Free Sheet Music Download"
+theme = "hugo-theme-minos"
